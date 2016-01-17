@@ -12,7 +12,7 @@ import com.connected.school.controller.common.ConnectedSchoolController;
 import com.connected.school.dto.PrivilegeDTO;
 import com.connected.school.service.IPrivilegeService;
 import com.connectedshcool.extensions.ajax.JsonResponse;
-
+//edrf"rg"rf rgerg
 @Controller
 @RequestMapping("/privilege")
 public  class PrivilegeController extends ConnectedSchoolController<PrivilegeDTO> {
