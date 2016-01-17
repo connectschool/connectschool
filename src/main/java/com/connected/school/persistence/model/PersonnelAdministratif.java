@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+//c'est un changement
 import javax.persistence.PrimaryKeyJoinColumn;
 import javax.persistence.Table;
 
